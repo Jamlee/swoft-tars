@@ -16,7 +16,7 @@
 composer create-project swoft/swoft src
 ```
 
-### 3. 在添加和改动的文件
+### 3. 基于swoft官方源码，添加了和改动了的文件
 ```
 # 添加的文件夹和文件
 src/app/Tars/*
